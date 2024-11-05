@@ -1,3 +1,19 @@
+wsnugroho:
+  name: Wisnu Nugroho
+  title: Me
+  url: https://github.com/wsnugroho
+  image_url: https://github.com/wsnugroho.png
+  socials:
+    github: wsnugroho
+
+Faridhsbi:
+  name: Muhammad Farid Hasabi
+  title: Friend
+  url: https://github.com/Faridhsbi
+  image_url: https://github.com/Faridhsbi.png
+  socials:
+    github: Faridhsbi
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
